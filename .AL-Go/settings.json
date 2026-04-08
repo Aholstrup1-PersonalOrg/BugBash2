@@ -3,5 +3,8 @@
   "country": "us",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "installApps": [
+    "https://example.com/app.zip?token=${{ nonExistentSecret }}"
+  ]
 }
