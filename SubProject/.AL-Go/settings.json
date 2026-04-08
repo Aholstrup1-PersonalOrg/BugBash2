@@ -1,0 +1,12 @@
+{
+  "appFolders": [
+    "App"
+  ],
+  "testFolders": [],
+  "country": "us",
+  "bcptTestFolders": [],
+  "installApps": [
+    ".dependencies/TestPublisher_TestApp_1.0.3.0.app"
+  ],
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/7209c0276f09fa18469b985fd609d45255b77426/Actions/.Modules/settings.schema.json"
+}

@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "dependencies": [],
+  "logo": "",
+  "EULA": "",
+  "name": "TestApp2",
+  "idRanges": [
+    {
+      "from": 50011,
+      "to": 50020
+    }
+  ],
+  "help": "",
+  "publisher": "TestPublisher",
+  "application": "22.0.0.0",
+  "platform": "1.0.0.0",
+  "screenshots": [],
+  "privacyStatement": "",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "url": "",
+  "resourceExposurePolicy": {
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false,
+    "allowDebugging": true
+  },
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+}
